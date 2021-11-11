@@ -27,7 +27,6 @@ node_modules
 npm-debug.log
 
 # local env variables
-.env
 
 # truffle build directory
 build/
@@ -57,3 +56,4 @@ allFiredEvents
 # hardhat
 cache
 artifacts
+config.bat
